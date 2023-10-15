@@ -1,0 +1,18 @@
+@charset "UTF-8";
+    
+div{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom, white, black);
+}
+
+body{
+    background-color: gray;
+}
+
+main{
+    background-color: white;
+    width: 60%;
+    margin: auto;
+}
+
